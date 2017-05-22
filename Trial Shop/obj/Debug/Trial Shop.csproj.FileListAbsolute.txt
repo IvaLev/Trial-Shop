@@ -1,0 +1,47 @@
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\roslyn\csc.exe
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\roslyn\System.Collections.Immutable.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\roslyn\vbc.exe
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\roslyn\VBCSCompiler.exe
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\roslyn\VBCSCompiler.exe.config
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Trial Shop.dll.config
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Trial Shop.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Trial Shop.pdb
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Antlr3.Runtime.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Autofac.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Autofac.Integration.Mvc.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\EntityFramework.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\EntityFramework.SqlServer.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Microsoft.Web.Infrastructure.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Newtonsoft.Json.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.Helpers.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.Mvc.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.Optimization.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.Razor.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.WebPages.Deployment.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.WebPages.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.WebPages.Razor.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\WebGrease.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Autofac.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Autofac.Integration.Mvc.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\EntityFramework.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\EntityFramework.SqlServer.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.Helpers.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.Mvc.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.Optimization.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.Razor.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.WebPages.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.WebPages.Deployment.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\System.Web.WebPages.Razor.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Antlr3.Runtime.pdb
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\bin\Newtonsoft.Json.xml
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\obj\Debug\Trial Shop.dll
+c:\users\b85\documents\visual studio 2015\Projects\Trial Shop\Trial Shop\obj\Debug\Trial Shop.pdb

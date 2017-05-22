@@ -1,0 +1,38 @@
+﻿@model Trial_Shop.ViewModels.ProductsViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="features_items">
+                        <!--products-->
+                        <h2 class="title text-center">Products</h2>
+                            @foreach (var product in @Model.Products)
+                            {
+                                <div class="col-sm-4">
+                                    <div>
+                                        <div class="text-center">
+                                            <a href="@Url.Action("Index", "Product", new {id = product.ProductId})">
+                                                <img src="~/Content/images/Products/product1.jpg" alt="" alt=""/>
+                                                <h2>@product.Name</h2>
+                                            </a>
+                                            <p>@product.Price грн</p>
+                                            <button class="btn btn-default" onclick="AddProductToCart(@product.ProductId, @product.Name, @product.Price)">
+                                                Add to cart
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        <!--end products-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
